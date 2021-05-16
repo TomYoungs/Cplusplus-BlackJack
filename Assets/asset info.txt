@@ -1,0 +1,4 @@
+background asset color: #ff00ff
+asset dimentions: w:534 h:188
+card dimentions: w:35 h:47
+pack dimentions: w:44 h:47
